@@ -16,18 +16,29 @@ O projeto também busca oferecer uma experiência personalizada por meio de dife
 
 ✧˖ Tecnologias utilizadas ˖✧
 
-⋆⋆ Desenvolvimento Web ⋆ HTML5 ⋆ CSS3 ⋆ JavaScript
+⋆⋆ Desenvolvimento Web 
+⋆ HTML5 
+⋆ CSS3 
+⋆ JavaScript
 
-⋆⋆ Aplicativo Mobile ⋆ JavaScript ⋆ Expo ⋆ Node.js ⋆ SQLite
+⋆⋆ Aplicativo Mobile 
+⋆ JavaScript 
+⋆ Expo 
+⋆ Node.js 
+⋆ SQLite
 
-⋆⋆ Banco de Dados ⋆ SQLite
+⋆⋆ Banco de Dados 
+⋆ SQLite
 
-⋆⋆ Ferramentas ⋆ Visual Studio Code
+⋆⋆ Ferramentas 
+⋆ Visual Studio Code
 
-✧˖ Autores ˖✧ ⋆ Heloá de Souza Machado ⋆ Keyla Mikaelle Furquim de Carvalho ⋆ Maria Clara de Souza
+✧˖ Autores ˖✧ 
+⋆ Heloá de Souza Machado 
+⋆ Keyla Mikaelle Furquim de Carvalho 
+⋆ Maria Clara de Souza
 
 ✧˖ Finalidade ˖✧
-
 Este repositório possui finalidade exclusivamente acadêmica, sendo utilizado para armazenar, documentar e acompanhar o desenvolvimento do projeto.
 
 ✧˖˖✧
