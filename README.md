@@ -16,21 +16,21 @@ O projeto também busca oferecer uma experiência personalizada por meio de dife
 
 ## ✧˖ Tecnologias utilizadas ˖✧
 
-⋆⋆Desenvolvimento Web**
+**Desenvolvimento Web**
 - HTML5 
 - CSS3 
 - JavaScript
 
-⋆⋆Aplicativo Mobile**
+**Aplicativo Mobile**
 - JavaScript 
 - Expo 
 - Node.js 
 - SQLite
 
-⋆⋆Banco de Dados**
+**Banco de Dados**
 - SQLite
 
-⋆⋆Ferramentas**
+**Ferramentas**
 - Visual Studio Code
 
 ## ✧˖ Autores ˖✧ 
