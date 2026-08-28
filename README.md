@@ -16,22 +16,22 @@ O projeto também busca oferecer uma experiência personalizada por meio de dife
 
 ## ✧˖ Tecnologias utilizadas ˖✧
 
-⋆⋆ Desenvolvimento Web 
-⋆ HTML5 
-⋆ CSS3 
-⋆ JavaScript
+- ⋆⋆ Desenvolvimento Web 
+- ⋆ HTML5 
+- ⋆ CSS3 
+- ⋆ JavaScript
 
 ⋆⋆ Aplicativo Mobile 
-⋆ JavaScript 
-⋆ Expo 
-⋆ Node.js 
-⋆ SQLite
+- ⋆ JavaScript 
+- ⋆ Expo 
+- ⋆ Node.js 
+- ⋆ SQLite
 
 ⋆⋆ Banco de Dados 
-⋆ SQLite
+- ⋆ SQLite
 
 ⋆⋆ Ferramentas 
-⋆ Visual Studio Code
+- ⋆ Visual Studio Code
 
 ## ✧˖ Autores ˖✧ 
 ⋆ Heloá de Souza Machado 
